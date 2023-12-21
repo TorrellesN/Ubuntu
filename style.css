@@ -20,3 +20,50 @@ a{
     background-color: #E95420;
     
 }
+
+/*Seccion 1 */
+
+.seccion_1{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 560px;
+    margin: 0px;
+}
+.div_1_izq{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 15%;
+    width: 50%;
+    background-color: blue;
+}
+.imagen1{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 30%;
+}
+
+
+h1{
+    font-size: 40px;
+    color: white;
+}
+p{
+    font-size: 24px;
+    color: white;
+}
+button{
+    color: white;
+    font-size: 20px;
+    background-color: #0E8420;
+    padding: 15px;
+    border: 0px;
+}
+
+img{
+    width: auto;
+}

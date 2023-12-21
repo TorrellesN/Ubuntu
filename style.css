@@ -92,3 +92,27 @@ h2{
 .p_black{
     color: black;
 }
+
+/*Seccion 3*/
+
+.section_3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 360px;
+}
+.div_3{
+    border: 2px solid black;
+    width: 70%;
+    margin-top: 50px;
+}
+
+h5{
+    font-size: 24px;
+    color: #326DE6;
+    margin-bottom: 0px;
+}
+.p_small{
+    font-size: 17px;
+    color: black;
+}
